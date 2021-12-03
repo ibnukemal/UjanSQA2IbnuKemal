@@ -16,7 +16,7 @@ public class no1_ibnu_kemal {
 			int a = 1;
 			int nilai = 1;
 			for(int x = 1; x <= batas; x++) {
-				System.out.println(nilai);
+				System.out.print(nilai);
 				nilai = a + b;
 				b = a;
 				a = nilai;
